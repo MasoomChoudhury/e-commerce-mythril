@@ -28,7 +28,7 @@ const socialsData: SocialNetworks[] = [
   {
     id: 4,
     icon: <FaGithub />,
-    url: "https://github.com/mohammadoftadeh",
+    url: "https://github.com/MasoomChoudhury",
   },
 ];
 
@@ -105,18 +105,10 @@ const Footer = () => {
             <p className="text-sm text-center sm:text-left text-black/60 mb-4 sm:mb-0 sm:mr-1">
               Mythril © Made by{" "}
               <Link
-                href="https://github.com/mohammadoftadeh"
+                href="https://github.com/MasoomChoudhury"
                 className="text-black font-medium"
               >
-                Mohammad Oftadeh
-              </Link>
-              {", "}
-              Designed by{" "}
-              <Link
-                href="https://www.figma.com/@hamzauix"
-                className="text-black font-medium"
-              >
-                Hamza Naeem
+                Masoom Kumar Choudhury
               </Link>
             </p>
             <div className="flex items-center">
