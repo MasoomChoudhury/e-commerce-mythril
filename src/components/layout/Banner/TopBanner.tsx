@@ -9,9 +9,6 @@ const TopBanner = () => {
       <div className="relative max-w-frame mx-auto">
         <p className="text-xs sm:text-sm">
           E-Commerce Front-End Project Developed by Masoom Kumar Choudhury.{" "}
-          <Link href="#" className="underline font-medium">
-            Sign Up Now
-          </Link>
         </p>
         <Button
           variant="ghost"
